@@ -27,6 +27,10 @@ How long you been in Developer Community?
 
 - I'm new on Android Developer Community but I have knowledge about coding.
 
-## That's it for now!
+Where the name comes from?
 
-Thank you for looking into it! Oh and before you go, when I release the app you can give me feedbacks from my [twitter](https://twitter.com/besomuncu) and send bug reports from Issues section!
+- It's just a random name that popped-up in my head.
+
+## And that's it for now!
+
+Thank you for looking into it! Oh and before you go, when I release the app you can give me feedbacks from my [Twitter](https://twitter.com/besomuncu) and send bug reports from Issues section!
