@@ -17,7 +17,7 @@ It's an app that uses WebView to connect you to YouTube without downloading any 
 
 What versions of Android are supported?
 
-- It supports Android 4 to latest.
+- It supports Android 4.1+.
 
 Are you gonna make it open-source?
 
